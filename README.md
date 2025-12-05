@@ -1,5 +1,6 @@
 # AK-s-Article-03
 # 📡 Integrated Intelligent Warehouse Security & Optimization Framework (IIWSOF)
+![image alt](https://github.com/AbidulKabir-Abir/AK-s-Article-03/blob/c3d393101d424bd962fe50064f21fcaa61dad07d/%F0%9F%93%A1%20Integrated%20Intelligent%20Warehouse%20Security%20%26%20Optimization%20Framework%20(IIWSOF).png)
 ### *A Research-Driven Convergence of AI, Cybersecurity, and Warehouse Operations*
 
 ---
